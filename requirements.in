@@ -6,3 +6,5 @@ networkx
 numpy
 pandas
 scipy
+jupyterlab
+jupyterlab_latex

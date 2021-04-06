@@ -1,6 +1,6 @@
 # Princeton ORF307 Optimization Companion
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/orf307/companion/main)
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/orf307/companion/main?urlpath=lab)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/orf307/companion/blob/main)
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/ORF307/companion/tree/main/)
 
