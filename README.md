@@ -1,7 +1,13 @@
-# ORF307 Companion
-Supporting material for Princeton ORF307
+# Princeton ORF307 Optimization Companion
 
-You can (non-interactively) browse all the notebooks in this repo on [nbviewer](https://nbviewer.jupyter.org/github/ORF307/companion/tree/main/)
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/orf307/companion/master)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master)
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/ORF307/companion/tree/main/)
+
+Supporting material for [Princeton ORF307 course: Optimization](https://stellato.io/teaching/orf307)
+
 
 ## Troubleshooting
 
