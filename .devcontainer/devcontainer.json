@@ -1,0 +1,4 @@
+{
+    "name": "Python 3",
+    "image": "bstellato/optimization-docker:main" // https://github.com/bstellato/optimization-docker
+}
