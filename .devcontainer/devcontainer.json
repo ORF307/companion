@@ -1,4 +1,9 @@
 {
-    "name": "Python 3",
-    "image": "bstellato/optimization-docker:main" // https://github.com/bstellato/optimization-docker
+  "name": "Optimization Container",
+  "image": "bstellato/optimization-docker:main", // https://github.com/bstellato/optimization-docker
+  "remoteUser": "jovyan",
+  "github.copilot.enable": {
+    "*": false
+  }
 }
+
